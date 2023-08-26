@@ -1,0 +1,9 @@
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?. 
+- Por que los LP son también aplicaciones programadas para determinado SO, es decir que utilizan los archivos de un SO en particular para funcionar.
+¿Qué tipo de máquina virtual soporta virtualBox?. 
+- Maquinas virtuales de sistema
+¿Qué función cumple el hypervisor en la virtualización?
+- Un hipervisor, conocido también como monitor de máquinas virtuales, es un proceso que crea y ejecuta máquinas virtuales.
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+- No afecta pues son entornos virtuales aislados. Cada MV tiene sus propios recursos de hardware configurados.
+
